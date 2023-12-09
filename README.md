@@ -1,4 +1,6 @@
-Whats up ✌  
+## Welcome to my Github Profile! 🏹
+
+Whats up 🙏  
 I'm a front-end developer from Brazil, currently residing in Uberaba, Minas Gerais.
 
 With over 9 years of experience in the field 💻, I have a strong background in ReactJS, NextJS, Typescript and CSS.
