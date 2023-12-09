@@ -9,4 +9,4 @@ I believe in writing clean, readable and maintainable code 🛠️. I enjoy work
 
 In my free time, I enjoy moments with my wife Tefa 👫 and my dog Brown 🐶, I go mountain biking🚵‍♂️ or trail running🏃, I listen to rap/trap🎧, I support the Cruzeiro⚽ team, I watch the NBA🏀 and play GTA. 
 
-LinkedIn: https://www.linkedin.com/in/twobanks
+<img src="https://github.com/twobanks/twobanks.wtf/blob/VDM/public/img/lettering.svg" alt="twobanks" width="40%" />
