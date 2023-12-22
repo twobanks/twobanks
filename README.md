@@ -1,12 +1,10 @@
 ## Welcome to my Github Profile! 🏹
 
 Whats up 🙏  
-I'm a front-end developer from Brazil, currently residing in Uberaba, Minas Gerais.
+My name is **Thiago**, aka: twobanks, rasta, petildo, zui. I was born in **Brasília de Minas** (north of Minas), however, I grew up and live in **Uberaba, Minas Gerais**. I work as a **Front-End Developer** and train for **ultramarathons** in my spare time.
 
-With over 9 years of experience in the field 💻, I have a strong background in ReactJS, NextJS, Typescript and CSS.
+With more than **9 years of experience** in the development area 💻, I have a solid background in **JavaScript**, **TypeScript**, **ReactJS**, **NextJS**, **CSS** (**Tailwind CSS**, **Styled Components**).
 
-I believe in writing clean, readable and maintainable code 🛠️. I enjoy working on challenging projects 💡 and continuously learning and improving my skills 📚.
-
-In my free time, I enjoy moments with my wife Tefa 👫 and my dog Brown 🐶, I go mountain biking🚵‍♂️ or trail running🏃, I listen to rap/trap🎧, I support the Cruzeiro⚽ team, I watch the NBA🏀 and play GTA. 
+I believe in writing clean, readable and maintainable code 🛠️. I like working on challenging projects 💡, learning and continually improving my skills 📚.
 
 <img src="https://github.com/twobanks/twobanks.wtf/blob/VDM/public/img/lettering.svg" alt="twobanks" width="40%" />
