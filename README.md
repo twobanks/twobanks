@@ -1,7 +1,7 @@
 ## Welcome to my Github Profile! 🏹
 
 Whats up 🙏  
-My name is **Thiago**, aka: twobanks, rasta, petildo, zui. I was born in **Brasília de Minas** (north of Minas), however, I grew up and live in **Uberaba, Minas Gerais**. I work as a **Front-End Developer** and train for **ultramarathons** in my spare time.
+My name is **Thiago**, aka: twobanks, rasta, zui. I was born in **Brasília de Minas** (north of Minas), however, I grew up and live in **Uberaba, Minas Gerais**. I work as a **Front-End Developer** and train for **ultramarathons** in my spare time.
 
 With more than **9 years of experience** in the development area 💻, I have a solid background in **JavaScript**, **TypeScript**, **ReactJS**, **NextJS**, **CSS** (**Tailwind CSS**, **Styled Components**).
 
